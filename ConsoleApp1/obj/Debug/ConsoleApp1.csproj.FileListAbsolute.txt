@@ -1,0 +1,7 @@
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Си#\с#\разработки занятий по ЯП C#\Методичка по основам языка C#\5.Методы\Projects\MethodRepository\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
